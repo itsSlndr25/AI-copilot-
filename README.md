@@ -2,7 +2,9 @@
 
 A product prototype demonstrating how an AI-powered Copilot can help customer service agents respond faster and more consistently, without replacing human judgment.
 
-**Live Demo → [your-streamlit-url-here]**
+**Live Demo → [brianihang-cs-copilot.streamlit.app](https://brianihang-cs-copilot.streamlit.app/)**
+
+**Test Report →** [docs/TEST_REPORT.md](docs/TEST_REPORT.md)
 
 ---
 
