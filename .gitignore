@@ -1,0 +1,12 @@
+# API key — never commit
+.streamlit/secrets.toml
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 私人文件（含面試題目與訪談資料，不公開）
+AI客服Copilot_專案說明文件*.md
